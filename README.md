@@ -1,4 +1,4 @@
-#👨‍🎓 Author & Project Details
+# 👨‍🎓 Author & Project Details
 Author: Aryan Kumar Verma
 
 Program: Master of Computer Applications (MCA)
